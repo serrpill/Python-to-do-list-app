@@ -1,0 +1,5 @@
+Dosyamın çalışırlığını kontrol etmek için arkadaşımda denedim, şu adımları yaptığımda çalıştı:
+1 – PyCharmda yeni proje açıp main.py ve to-do-list.ico isimli dosyaları içine kopyaladım.
+2 - Pycharmda dosyayı açıp yüklenmeyen tkCalendar package’ını yükledim.
+3 – Görev listesi ve tamamlanmış görevler listesini içinde tuttuğum task.csv ve completed.csv dosyalarını masaüstüne atıp main.py sınıfındaki 128 ve 130. Satırlarda dosya yollarını değiştirdim. 
+Bunlar sonucunda kodum sıkıntısız çalıştı.
